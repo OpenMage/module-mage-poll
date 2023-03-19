@@ -1,0 +1,9 @@
+src/app/design/frontend/base/default/layout/poll.xml                app/design/frontend/base/default/layout/poll.xml
+src/app/design/adminhtml/default/default/template/poll              app/design/adminhtml/default/default/template/poll
+src/app/locale/en_US/Mage_Poll.csv                                  app/locale/en_US/Mage_Poll.csv
+src/app/etc/modules/Mage_Poll.xml                                   app/etc/modules/Mage_Poll.xml
+src/app/code/core/Mage/Adminhtml/controllers/PollController.php     app/code/core/Mage/Adminhtml/controllers/PollController.php
+src/app/code/core/Mage/Adminhtml/controllers/Poll                   app/code/core/Mage/Adminhtml/controllers/Poll
+src/app/code/core/Mage/Adminhtml/Block/Poll                         app/code/core/Mage/Adminhtml/Block/Poll
+src/app/code/core/Mage/Poll                                         app/code/core/Mage/Poll
+

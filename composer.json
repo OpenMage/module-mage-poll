@@ -1,0 +1,9 @@
+{
+    "name": "openmage/module-mage-poll",
+    "description": "Mage_Poll classes for backward compatibility.",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
